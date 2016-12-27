@@ -1,0 +1,10 @@
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\bin\Debug\PMSDataAccessLayer.dll.config
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\bin\Debug\PMSDataAccessLayer.dll
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\bin\Debug\PMSDataAccessLayer.pdb
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\obj\Debug\PMSDataAccessLayer.dll
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\obj\Debug\PMSDataAccessLayer.pdb
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\PMSDataAccessLayer\obj\Debug\PMSDataAccessLayer.csprojResolveAssemblyReference.cache

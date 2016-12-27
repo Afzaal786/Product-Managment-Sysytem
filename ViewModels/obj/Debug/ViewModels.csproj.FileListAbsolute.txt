@@ -1,0 +1,6 @@
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\ViewModels\bin\Debug\ViewModels.dll.CodeAnalysisLog.xml
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\ViewModels\bin\Debug\ViewModels.dll.lastcodeanalysissucceeded
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\afzaal\Documents\Visual Studio 2015\Projects\Product-Managment\ViewModels\obj\Debug\ViewModels.pdb
